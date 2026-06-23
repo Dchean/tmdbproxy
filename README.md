@@ -19,7 +19,7 @@
 
 ## 部署到 Cloudflare
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/BenZinaDaze/tmdb-proxy)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/BenZinaDaze/tmdbproxy)
 
 点击上面的按钮后，Cloudflare 会基于当前仓库自动创建并部署这个 Worker。
 
